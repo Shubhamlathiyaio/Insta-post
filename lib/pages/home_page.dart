@@ -127,7 +127,7 @@ Widget bodyWidge(int i, BuildContext context) {
             padding: const EdgeInsets.all(20),
             child: postTile(i + 1),
           ),
-          loder(),
+          //loder(),
           Spacer(),
           Padding(
             padding: const EdgeInsets.all(20),
